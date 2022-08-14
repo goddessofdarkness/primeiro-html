@@ -1,0 +1,20 @@
+.sp,
+.rj {
+  color: seagreen;
+}
+
+.underline {
+  text-decoration: none;
+}
+
+.hoje {
+  color: darkred;
+}
+
+.amanha {
+  color: darkblue;
+}
+
+.grande {
+  font-size: 20px;
+}
